@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
--   🔭 I’m currently working at **[Digit-u](https://www.linkedin.com/company/digit-u-agence-digitale-en-tunisie/mycompany/)**
+-   🔭 I’m currently working at **[Pentabell](https://www.linkedin.com/company/pentabell/)**
 
--   🌱 I’m currently learning **Data Structures and Algorithms.**
+-   🌱 I’m currently learning **AWS.**
 
 -   👯 I’m looking to collaborate on **OpenSource Projects**
 
