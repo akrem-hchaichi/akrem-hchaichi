@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
--   🔭 I’m currently working at **[Pentabell](https://www.linkedin.com/company/pentabell/)**
+-   🔭 I’m currently working at **[Talan]([https://www.linkedin.com/company/pentabell/](https://www.linkedin.com/company/talan/))**
 
 -   🌱 I’m currently learning **AWS.**
 
